@@ -23,7 +23,7 @@
   ],
   "license": "MIT",
   "main": "lib/index.js",
-  "name": "@slv-decorators/di",
+  "name": "@slowvoid.dev/di",
   "overrides": {
     "typescript": "$typescript"
   },

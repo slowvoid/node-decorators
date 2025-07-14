@@ -6,5 +6,5 @@ Fork of [node-decorators](https://github.com/serhiisol/node-decorators)
 # Installation
 Main dependencies
 ```
-npm install @slv-decorators/express --save
+npm install @slowvoid.dev/express --save
 ```

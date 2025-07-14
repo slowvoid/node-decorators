@@ -19,7 +19,7 @@
   ],
   "license": "MIT",
   "main": "lib/index.js",
-  "name": "@slv-decorators/express",
+  "name": "@slowvoid.dev/express",
   "overrides": {
     "typescript": "$typescript"
   },
