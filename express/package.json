@@ -24,7 +24,7 @@
     "typescript": "$typescript"
   },
   "peerDependencies": {
-    "@decorators/di": "^3.0.0",
+    "@slowvoid.dev/di": "^1.0.0",
     "express": "^5.1.0"
   },
   "repository": {
@@ -35,7 +35,7 @@
     "build": "tsc"
   },
   "types": "lib/index.d.ts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "dependencies": {
     "reflect-metadata": "^0.2.2"
   }
