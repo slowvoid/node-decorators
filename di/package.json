@@ -4,7 +4,7 @@
     "url": "https://github.com/slowvoid/node-decorators/issues"
   },
   "dependencies": {
-    "reflect-metadata": "^0.1.13"
+    "reflect-metadata": "^0.2.2"
   },
   "description": "node decorators - decorators for dependency injection",
   "devDependencies": {

@@ -35,5 +35,8 @@
     "build": "tsc"
   },
   "types": "lib/index.d.ts",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "dependencies": {
+    "reflect-metadata": "^0.2.2"
+  }
 }
