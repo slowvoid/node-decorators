@@ -33,8 +33,12 @@
   },
   "scripts": {
     "build": "rimraf ./lib && tsc",
-    "test": "jest"
+    "test": "jest",
+    "prepublish": "rimraf ./lib && tsc"
   },
   "types": "lib/index.d.ts",
-  "version": "1.0.0"
+  "version": "1.0.1",
+  "files": [
+    "lib/"
+  ]
 }
