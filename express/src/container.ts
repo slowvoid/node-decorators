@@ -1,3 +1,3 @@
-import { Container as DiContainer } from '@decorators/di';
+import { Container as DiContainer } from "@slowvoid.dev/di"
 
 export const Container = new DiContainer();

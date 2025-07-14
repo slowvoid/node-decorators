@@ -1,5 +1,5 @@
 import { RouterOptions } from 'express';
-import { Injectable } from '@decorators/di';
+import { Injectable } from "@slowvoid.dev/di";
 
 import { Type } from '../types';
 import { ExpressClass, ExpressMeta, getMeta } from '../meta';

@@ -1,5 +1,5 @@
 import { Request, Response, NextFunction, RequestHandler, ErrorRequestHandler } from 'express';
-import { InjectionToken } from '@decorators/di';
+import { InjectionToken } from "@slowvoid.dev/di";
 
 import { Container } from './container';
 import { Type } from './types';

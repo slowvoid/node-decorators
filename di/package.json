@@ -8,7 +8,7 @@
   },
   "description": "node decorators - decorators for dependency injection",
   "devDependencies": {
-    "@types/jest": "^29.4.0",
+    "@types/jest": "^29.5.14",
     "jest": "^29.4.3",
     "rimraf": "^5.0.1",
     "ts-jest": "^29.0.5",
@@ -37,7 +37,7 @@
     "prepublish": "rimraf ./lib && tsc"
   },
   "types": "lib/index.d.ts",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "files": [
     "lib/"
   ]

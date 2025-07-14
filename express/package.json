@@ -5,7 +5,7 @@
   },
   "description": "node decorators - decorators for express library",
   "devDependencies": {
-    "@decorators/di": "../di",
+    "@slowvoid.dev/di": "../di",
     "@types/express": "^5.0.3",
     "express": "^5.1.0",
     "ts-node": "^10.9.1",
@@ -33,10 +33,10 @@
   },
   "scripts": {
     "build": "tsc",
-    "prepublish": "rimraf ./lib && tsc"
+    "prepublish": "tsc"
   },
   "types": "lib/index.d.ts",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "dependencies": {
     "reflect-metadata": "^0.2.2"
   },
